@@ -1,1 +1,1 @@
-# gensqlquery
+# gensqlqueryВ разработке
